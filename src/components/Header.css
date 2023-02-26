@@ -1,0 +1,17 @@
+.logo {
+  height: 80%;
+  padding: 5px 0 0 10px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(240, 241, 243);
+  height: 5vh;
+}
+
+.title {
+  padding-left: 35%;
+  color: black;
+  font-size: 4vh;
+}

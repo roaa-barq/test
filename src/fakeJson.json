@@ -1,0 +1,80 @@
+{
+  "users": [
+    { "email": "roaa@gmail.com", "pass": "123456" },
+    { "email": "abdullah@gmail.com", "pass": "123456" }
+  ],
+
+  "products": [
+    {
+      "item_id": "1",
+      "item_name": "Short-Sleeve Weekender Tee",
+      "price": "$39",
+      "img": "./card1/card1-main.jfif",
+      "img_hover": "./card1/card1-hover.jfif",
+      "rate": 4,
+      "reviews": "1000",
+      "colors": [
+        { "id": "1", "color": "./card1/black.jfif" },
+        { "id": "2", "color": "./card1/blue.jfif" },
+        { "id": "3", "color": "./card1/aqua.jfif" },
+        { "id": "4", "color": "./card1/green.jfif" },
+        { "id": "5", "color": "./card1/navy.jfif" },
+        { "id": "6", "color": "./card1/orange.jfif" }
+      ]
+    },
+
+    {
+      "item_id": "2",
+      "item_name": "Weekender Tank",
+      "price": "$29",
+      "img": "./card2/card2-main.jfif",
+      "img_hover": "./card2/card2-hover.jfif",
+      "rate": 4,
+      "reviews": "1000",
+      "colors": [
+        { "id": "1", "color": "./card1/black.jfif" },
+        { "id": "2", "color": "./card1/blue.jfif" },
+        { "id": "3", "color": "./card1/aqua.jfif" },
+        { "id": "4", "color": "./card1/green.jfif" },
+        { "id": "5", "color": "./card1/navy.jfif" },
+        { "id": "6", "color": "./card1/orange.jfif" }
+      ]
+    },
+
+    {
+      "item_id": "3",
+      "item_name": "Signature Egyptian Cotton Towels",
+      "price": "$18-$99",
+      "img": "./card3/card3-main.jfif",
+      "img_hover": "./card3/card3-hover.jfif",
+      "rate": 4,
+      "reviews": "1000",
+      "colors": [
+        { "id": "1", "color": "./card3/card3-beige.jfif" },
+        { "id": "2", "color": "./card3/card3-white.jfif" },
+        { "id": "3", "color": "./card3/card3-aqua.jfif" },
+        { "id": "4", "color": "./card3/card3-green.jfif" },
+        { "id": "5", "color": "./card3/card3-navy.jfif" },
+        { "id": "6", "color": "./card3/card3-pink.jfif" }
+      ]
+    },
+
+    {
+      "item_id": "4",
+      "item_name": "Long-Sleeve Weekender Tee",
+      "price": "$49",
+      "img": "./card4/card4-main.jfif",
+      "img_hover": "./card4/card4-hover.jfif",
+      "rate": 4,
+      "reviews": "1000",
+      "colors": [
+        { "id": "1", "color": "./card1/black.jfif" },
+        { "id": "2", "color": "./card1/blue.jfif" },
+        { "id": "3", "color": "./card1/aqua.jfif" },
+        { "id": "4", "color": "./card1/green.jfif" },
+        { "id": "5", "color": "./card1/navy.jfif" },
+        { "id": "6", "color": "./card1/orange.jfif" }
+      ]
+    }
+  ]
+}

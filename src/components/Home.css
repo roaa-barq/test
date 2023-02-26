@@ -1,0 +1,112 @@
+.homePage {
+  height: 80vh;
+}
+
+.upper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+}
+
+.para {
+  color: rgb(17, 46, 80);
+  width: 30%;
+  padding-right: 20%;
+}
+
+.titlePara {
+  font-weight: bold;
+  font-size: 4vh;
+  color: rgb(17, 46, 80);
+}
+
+.question {
+  width: 20%;
+  height: 100%;
+}
+
+.middle {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 15vh;
+  background-color: rgb(240, 241, 243);
+}
+
+.button {
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: transparent;
+  border: solid 2px gray;
+  border-radius: 10px;
+  color: rgb(17, 46, 80);
+  width: 10%;
+  height: 30%;
+  margin: 10px;
+}
+
+.button:hover {
+  background-color: white;
+}
+
+.info {
+  background-color: rgb(240, 241, 243);
+  height: 35vh;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.infoColumn {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+
+.infoImg {
+  height: 100%;
+}
+
+.infoDiv {
+  font-size: 20px;
+  color: rgb(17, 46, 80);
+  border: solid 2px rgb(17, 46, 80);
+  border-radius: 10px;
+  height: 10%;
+  width: max-content;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.logout {
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border: solid 2px rgb(17, 46, 80);
+  border-radius: 10px;
+  color: rgb(17, 46, 80);
+  width: max-content;
+  height: 30%;
+  margin-top: 30px;
+  padding: 10px;
+}
+
+.logout:hover {
+  background-color: rgb(17, 46, 80);
+  color: whitesmoke;
+}
